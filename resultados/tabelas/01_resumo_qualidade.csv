@@ -1,0 +1,7 @@
+,ausentes,negativos,zeros,minimo,maximo
+val_gerhidraulica,0,0,0,275.27099609,87875.71
+val_gertermica,0,0,0,19.0,19869.297
+val_gereolica,0,0,778,0.0,25064.762
+val_gersolar,0,0,19368,0.0,42551.688
+val_carga,0,0,0,1364.251,106148.66
+val_intercambio,0,58777,13112,-16172.03099999,14146.508

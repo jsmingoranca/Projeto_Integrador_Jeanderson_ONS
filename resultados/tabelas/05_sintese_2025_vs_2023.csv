@@ -1,0 +1,6 @@
+nivel,indice_vale,carga_residual_min,rampa_tarde,maior_rampa_horaria,horas_residual_baixa
+SIN,-0.031 ✔,-8.6 GW ✔,+9.7 GW ✔,+4.5 GW/h ✔,+3.2 h/dia ✔
+SE,-0.025 ✔,-6.9 GW ✔,+8.6 GW ✔,+2.9 GW/h ✔,+3.5 h/dia ✔
+S,-0.040 ✔,-1.1 GW ✔,+2.3 GW ✔,+0.5 GW/h ✔,-0.2 h/dia (n.s.)
+NE,-0.057 ✔,-1.8 GW ✔,-1.1 GW ~,+0.4 GW/h ~,+3.1 h/dia ✔
+N,+0.001 (n.s.),+0.2 GW ✔,+1.0 GW ✔,+0.1 GW/h ✔,-2.6 h/dia ✔
